@@ -1,0 +1,88 @@
+body {
+  color: white;
+  /*margin: 0px;*/
+  /*padding: 0px;*/
+  background-color: rgb(28,28,28);
+}
+
+#hero-img {
+  width: 85px;
+}
+
+.col-lg-10.offset-lg-0.d-flex.d-lg-flex.d-xl-flex.justify-content-lg-center.justify-content-xl-center.align-items-xl-center {
+}
+
+.row {
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  align-items: center;
+}
+
+.col-xl-10.d-xl-flex {
+}
+
+div {
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*align-content: center;*/
+  /*display: flex;*/
+  /*vertical-align: middle;*/
+}
+
+.hero-div {
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+}
+
+.hero {
+  /*display: fles;*/
+}
+
+#hero-middle {
+}
+
+#hero-second {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+#snd-div {
+  width: 100%;
+  height: 100vh;
+}
+
+#paragraph-hero {
+  /*vertical-align: middle;*/
+  /*align-items: center;*/
+  /*align-self: center;*/
+  font-size: 32px;
+  /*justify-content: center;*/
+}
+
+#particles-js {
+  width: 100%;
+  height: 100%;
+  background: rgb(28,28,28);
+  position: absolute;
+}
+
+#middle-snd {
+}
+
+.container.skill-container {
+  border: dotted;
+  border-left: none;
+  border-right: none;
+  border-color: white;
+  border-width: medium;
+}
+
+.d-flex.justify-content-between {
+  align-items: center;
+}
+
